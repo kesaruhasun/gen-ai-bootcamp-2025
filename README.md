@@ -1,2 +1,4 @@
-# gen-ai-bootcamp-2025
-A comprehensive resource hub for the 2025 Generative AI Bootcamp. This repository includes code samples, exercises, projects, and documentation to help participants master the latest techniques and tools in generative AI.
+
+Sinhala Language Learning AI Project Details
+
+https://docs.google.com/document/d/1ZN67HsiJ7zqxzmaeIEWgakTqZXQS7h0mAIeSf6HxBs0/edit?tab=t.l7us94jck4jd#heading=h.5x12ys8r6y15
